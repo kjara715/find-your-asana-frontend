@@ -1,0 +1,17 @@
+.title {
+    font-family: "Papyrus";
+
+}
+
+.description {
+    font-style: italic;
+    font-family: "Papyrus";
+}
+
+.home {
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+
+}
+
